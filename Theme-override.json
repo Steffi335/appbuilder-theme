@@ -1,0 +1,16 @@
+{
+  "New item": {
+    "version": "1.0",
+    "themeOverrides": {
+      "components": {
+        "AppBuilderAppShellTemplatePage": {
+          "styles": {
+            "rightContainer": {
+              "width": "40%"
+            }
+          }
+        }
+      }
+    }
+  }
+}
