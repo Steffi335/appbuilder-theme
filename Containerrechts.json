@@ -1,0 +1,9 @@
+{
+    "version": "1.0",
+    "themeOverrides": {
+      "layout": {
+        "rightPanelWidth": "40%"
+      }
+    }
+  }
+  
