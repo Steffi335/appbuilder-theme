@@ -1,4 +1,18 @@
 {
-  "name": "Test",
-  "value": 123
+  "version": "1.0",
+  "sessions": [
+    {
+      "slug": "default-session"
+    }
+  ],
+  "themeOverrides": {
+    "AppBuilderAppShellTemplatePage": {
+      "styles": {
+        "rightContainer": {
+          "minWidth": "500px",
+          "maxWidth": "600px"
+        }
+      }
+    }
+  }
 }
