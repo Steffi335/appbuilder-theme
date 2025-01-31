@@ -1,0 +1,15 @@
+{
+    "version": "1.0",
+    "themeOverrides": {
+        "components": {
+            "AppBuilderAppShellTemplatePage": {
+                 "styles": {
+                     "rightContainer": {
+                         "minWidth": "500px",
+                         "maxWidth": "600px"
+                      }
+      }
+    }
+  }
+}
+}
